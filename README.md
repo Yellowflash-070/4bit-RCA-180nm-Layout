@@ -72,7 +72,7 @@ Our 4bit RCA layout is meets all the design rules specified for gpdk 180nm techn
 ![Layout-4bitRCA-LVS2](https://github.com/user-attachments/assets/8f23c51f-473f-4a68-81ef-f7db53b06d77) <br> Fig 17: LVS check (2/2) for 4bit RCA. <br><br>
 
 
-**Note: All of these design or layout are performed in Cadence Virtuoso design tool. Cadence Assura tool is used for DRC and LVS checks for layout in gpdk 180nm library. Widths of PMOS is kept 2x the width of NMOS.**
+**Note: All of these design or layout are performed in Cadence Virtuoso design tool. Cadence Assura tool is used for DRC and LVS checks for layout in gpdk 180nm library. Widths of PMOS's are kept 2x the width of NMOS's.**
 
 
 
